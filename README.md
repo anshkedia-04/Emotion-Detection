@@ -4,6 +4,7 @@ AI-Based Emotion Detection System
 
 This project is a real-time Emotion Detection System using CNN, TensorFlow, Flask, and OpenCV. It captures live video from the webcam, processes facial expressions, and predicts emotions using a deep learning model.
 
+
 🚀 Features
 
 Real-time face detection using OpenCV.
@@ -13,6 +14,7 @@ CNN-based emotion classification trained on a labeled dataset.
 Flask API to serve predictions.
 
 Web-based UI with live camera feed.
+
 
 🛠 Technologies Used
 
@@ -24,6 +26,7 @@ Backend: Flask (Python)
 
 Frontend: HTML, CSS, JavaScript
 
+
 🔥 Future Enhancements
 
 📈 Improve model accuracy with a larger dataset.
@@ -31,6 +34,7 @@ Frontend: HTML, CSS, JavaScript
 🎙️ Add voice-based emotion feedback.
 
 📊 Integrate a history tracker for past detections.
+
 
 🙌 Acknowledgments
 
