@@ -1,12 +1,16 @@
 Emotion Detection Web App 🎭
 This project is a real-time Emotion Detection system using CNN, TensorFlow, OpenCV, Flask, and a web-based UI built with HTML, CSS, and JavaScript. The system detects human emotions through a webcam and displays predictions on the frontend.
 
+
+
 🔹 Features
 ✔️ Real-time emotion detection via webcam.
 ✔️ CNN-based emotion recognition using TensorFlow.
 ✔️ Flask API for model inference.
 ✔️ Frontend UI with a clean and interactive design.
 ✔️ Works with live webcam feed on a browser.
+
+
 
 📌 Tech Stack
 Backend: Flask, TensorFlow, OpenCV
