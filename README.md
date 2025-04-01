@@ -13,6 +13,11 @@ This project is a **real-time Emotion Detection system** using **CNN, TensorFlow
 
 ---
 
+![image](https://github.com/user-attachments/assets/a2802d30-fe1e-4333-aa21-2d1076a9ad2d)
+
+
+---
+
 ## **📌 Tech Stack**
 - **Backend**: Flask, TensorFlow, OpenCV  
 - **Frontend**: HTML, CSS, JavaScript  
